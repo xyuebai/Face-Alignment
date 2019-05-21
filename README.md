@@ -9,10 +9,10 @@ Face alignment with 5 points (nose, center of both eyes, both corners of mouth),
 
 ### Little instruction
 * landmark_detector_trainer.py
-_To train the 5 landmark detector, a trained model is in the folder  `landmark_5_model`.
+_To train the 5 landmark detector, a trained model is in the folder  `landmark_5_model`._
 
 * face_aligner.py
-_Does the actual facial alignment work.
+_Does the actual facial alignment work._
 
 ### Examples
 ![Example 1: Before aligning](example_output/flickr_2_image16315_2.jpg)
